@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1677280230 source:c:\users\kenneth kwame\desktop\c programming\files\lab6\bankapp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1678834820 source:c:\users\kenneth kwame\desktop\c programming\files\myexamsrevision\bankapp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
